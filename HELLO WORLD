@@ -1,1 +1,7 @@
-C:\jai ho\.vscode\c coding\hello.c
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+    printf("hello world");
+    getch();
+}
